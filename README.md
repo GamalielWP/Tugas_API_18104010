@@ -1,1 +1,3 @@
 # Tugas_API_18104010
+
+sebelum menginstal laravel kita harus menginstal composer. caranya download dulu di https://getcomposer.org/download/ setelah itu tinggal instal seperti instruksi yang ada di sile setupnya. setelah selesai buka cmd arahkan ke direktori yang akan dinstal laravel lalu ketikkan perintah composer create-project --prefer-dist laravel/laravel="^7.0" nama_folder_yg_diinginkan dan tunggu sampai selesai. setelah itu arahkan direktori cmd ke folder yg ada laravelnya dan ketikkan perintah "code ." untuk membuka dengan visual studio code. lalu ketikkan perintah php artisan serve pada cmd agar web bisa ditampilkan dengan mengetik 127.0.0.1:8000/ di alamat browser, pastikan juga xampp sudah aktif.
